@@ -1,5 +1,5 @@
 # carbon  
-[![Go](https://github.com/keepchen/go-sail/actions/workflows/go.yml/badge.svg)](https://github.com/keepchen/go-sail/actions/workflows/go.yml)  [![CodeQL](https://github.com/keepchen/go-sail/actions/workflows/codeql.yml/badge.svg)](https://github.com/keepchen/go-sail/actions/workflows/codeql.yml)  [![Go Report Card](https://goreportcard.com/badge/github.com/keepchen/carbon)](https://goreportcard.com/report/github.com/keepchen/carbon)    
+[![Go](https://github.com/keepchen/carbon/actions/workflows/go.yml/badge.svg)](https://github.com/keepchen/carbon/actions/workflows/go.yml)  [![CodeQL](https://github.com/keepchen/carbon/actions/workflows/codeql.yml/badge.svg)](https://github.com/keepchen/carbon/actions/workflows/codeql.yml)  [![Go Report Card](https://goreportcard.com/badge/github.com/keepchen/carbon)](https://goreportcard.com/report/github.com/keepchen/carbon)    
 An easy-use datetime toolkit written in Go.
 
 #### Requirement  
